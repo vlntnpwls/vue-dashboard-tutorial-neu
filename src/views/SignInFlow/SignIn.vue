@@ -59,9 +59,14 @@ export default {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  padding-top: 16px;
+  padding-bottom: 24px;
 }
 
 .login {
   width: 400px;
+  text-align: center;
+  margin-left: 16px;
+  margin-right: 16px;
 }
 </style>
